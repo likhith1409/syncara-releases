@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0+2",
+  "version": "1.0.0+3",
   "downloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/Syncara_Setup.exe",
   "androidDownloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "1. Fixed background clipboard injection for Android\n2. Fixed version consistency and auto-update mechanisms"
+  "releaseNotes": "1. Fixed clipboard read failing on Android 10+ when Quick Sync overlay is launched.\n2. Fixed issue where background syncing to PC failed if the app was swiped away from recent apps."
 }
