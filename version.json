@@ -1,5 +1,6 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest",
-  "releaseNotes": "Initial public release of Syncara."
+  "version": "1.0.0+2",
+  "downloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/Syncara_Setup.exe",
+  "androidDownloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/app-release.apk",
+  "releaseNotes": "1. Fixed background clipboard injection for Android\n2. Fixed version consistency and auto-update mechanisms"
 }
