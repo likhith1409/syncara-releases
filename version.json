@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0+4",
+  "version": "1.0.0+5",
   "downloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/Syncara_Setup.exe",
   "androidDownloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "1. Added in-app Bug Report & Feedback — send reports directly from Settings.\n2. App now checks for updates automatically on every launch and prompts you to install."
+  "releaseNotes": "1. Added in-app Bug Report & Feedback — send reports directly from Settings.\n2. You can now attach up to 3 files (max 5MB each) to your reports (screenshots, logs, etc).\n3. App now checks for updates automatically on every launch and prompts you to install."
 }
