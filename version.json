@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0+3",
+  "version": "1.0.0+4",
   "downloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/Syncara_Setup.exe",
   "androidDownloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "1. Fixed clipboard read failing on Android 10+ when Quick Sync overlay is launched.\n2. Fixed issue where background syncing to PC failed if the app was swiped away from recent apps."
+  "releaseNotes": "1. Added in-app Bug Report & Feedback — send reports directly from Settings.\n2. App now checks for updates automatically on every launch and prompts you to install."
 }
