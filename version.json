@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0+6",
+  "version": "1.0.0+7",
   "downloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/Syncara_Setup.exe",
   "androidDownloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "1. Fixed bug where devices with different or no Google accounts could appear in discovery.\n2. Fixed uninstaller to completely remove leftover directories and files on Windows."
+  "releaseNotes": "1. Fixed deep bug where changing Google accounts didn't enforce isolation without an app restart.\n2. Full release with proper deployment pipeline."
 }
