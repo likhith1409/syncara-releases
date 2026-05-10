@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0+7",
+  "version": "1.0.0+8",
   "downloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/Syncara_Setup.exe",
   "androidDownloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "1. Fixed deep bug where changing Google accounts didn't enforce isolation without an app restart.\n2. Full release with proper deployment pipeline."
+  "releaseNotes": "1. Google sign-in is now mandatory — sync won't start without it.\n2. Removed skip option from onboarding to enforce account isolation.\n3. Added Report a Bug button to onboarding on both Desktop and Android.\n4. Fixed cross-account device visibility on shared networks."
 }
