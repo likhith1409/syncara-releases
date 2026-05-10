@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0+8",
+  "version": "1.0.0+9",
   "downloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/Syncara_Setup.exe",
   "androidDownloadUrl": "https://github.com/likhith1409/syncara-releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "1. Google sign-in is now mandatory — sync won't start without it.\n2. Removed skip option from onboarding to enforce account isolation.\n3. Added Report a Bug button to onboarding on both Desktop and Android.\n4. Fixed cross-account device visibility on shared networks."
+  "releaseNotes": "1. Moved Report Bug button to top-right corner in onboarding for better accessibility.\n2. Added pull-to-refresh on Android home screen to re-scan for devices.\n3. Fixed Report Bug button being hidden behind Get Started button."
 }
